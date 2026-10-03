@@ -40,7 +40,6 @@
 测试代码引用 `tool_governance_demo` 模块（本仓库只含练习版 `tool_governance.py`），运行前先复制一份：
 
 ```bash
-cp tool_governance.py tool_governance_demo.py
 python -m pytest test_tool_governance.py -v
 ```
 
